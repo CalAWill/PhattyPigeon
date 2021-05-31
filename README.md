@@ -1,2 +1,2 @@
 # PhattyPigeon
-My ow clone of Flappy Bird, for fun.
+My own clone of Flappy Bird, for fun.
